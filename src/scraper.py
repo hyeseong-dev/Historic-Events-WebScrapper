@@ -30,6 +30,3 @@ def events_of_the_day(month: str, day: int) -> List[str]:
     raw_events = page.find_all('li', attrs={'class': 'event'})
     events = [event.text for event in raw_events]
     return events
-
-
-events_of_the_day('february', 24)
