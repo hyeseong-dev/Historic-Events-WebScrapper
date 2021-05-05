@@ -1,6 +1,6 @@
-# Job Search WebCrawler 🚄
+# Historic Events WebScrapper 🚄
 
-- 진행기간 : 2021년 05월 05일(1일)
+- Period : 2021-05-05(1)
 
 ### Project Directory Structres
 ![image](https://user-images.githubusercontent.com/57933835/117106090-38005400-adba-11eb-8850-23fc2939b602.png)
